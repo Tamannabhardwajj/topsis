@@ -102,8 +102,7 @@ Alternatives are ranked in **descending order** of TOPSIS score.
 ### Python package(pypi)
 https://pypi.org/project/Topsis-Tamanna-Bhardwaj-102303280/1.0.0/
 
-## 💻 Command Line Usage (Part-I)
-
+## 💻 Command Line Usage
 Run the program using the following command:
 
 ```bash
