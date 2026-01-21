@@ -72,23 +72,10 @@ Ci = Si- / (Si+ + Si-)
 
 A higher score indicates a better alternative.
 
----
+
 
 ### **Step 7: Ranking**
 Alternatives are ranked in **descending order** of TOPSIS score.
-
-## 📊 Sample Result 
-
-<p align="center">
-  <img src="web-ui.png" width="750">
-</p>
-<p align="center"><b>TOPSIS Web Service – Input Interface</b></p>
-
-<p align="center">
-  <img src="result-output.png" width="600">
-</p>
-<p align="center"><b>TOPSIS Web Service – Result Display</b></p>
-
 
 ### **Result Interpretation**
 - The alternative with the **highest TOPSIS score** is the most preferred.
