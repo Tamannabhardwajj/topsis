@@ -99,6 +99,8 @@ Alternatives are ranked in **descending order** of TOPSIS score.
 - Easy identification of best-performing option
 - Better interpretability for decision-makers
 
+### Python package(pypi)
+https://pypi.org/project/Topsis-Tamanna-Bhardwaj-102303280/1.0.0/
 
 ## 💻 Command Line Usage (Part-I)
 
